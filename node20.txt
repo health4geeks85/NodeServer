@@ -1,0 +1,104 @@
+<html><body bgcolor="#000000" style="font-family: monospace;">
+{"result": ["10.0 - ETH", "13507", "181586;35267;3", "30239;30382;29900;30333;30352;30379", "4539669;29113;582", "755978;759557;747500;758333;758809;759492", "54;74;50;75;53;71;54;75;53;72;50;72", "asia1.ethermine.org:4444;dcr-as.coinmine.pl:2222", "436;4;0;1"]}<br><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4569.376 Mh/s, Total Shares: 29109, Rejected: 581
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 761.689 Mh/s, GPU1 761.514 Mh/s, GPU2 762.022 Mh/s, GPU3 760.850 Mh/s, GPU4 761.852 Mh/s, GPU5 761.449 Mh/s
+</font><br><font color="#00ff00">ETH: 02/01/18-21:33:51 - SHARE FOUND - (GPU 1)
+</font><br><font color="#00ff00">ETH: Share accepted (78 ms)!
+</font><br>&nbsp;<font color="#ffffff"> DCR: 02/01/18-21:33:52 - New job from dcr-as.coinmine.pl:2222
+</font><br>&nbsp;<font color="#00ff00"> DCR: 02/01/18-21:33:52 - SHARE FOUND - (GPU 0)
+</font><br>&nbsp;<font color="#ff0000"> DCR: Share rejected (94 ms)!
+</font><br><font color="#ffffff">
+</font><br><font color="#00ff00">GPU #0: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #1: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #2: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #3: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #4: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #5: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ffff">ETH - Total Speed: 181.792 Mh/s, Total Shares: 35263(6072+6108+6071+5906+5930+5914), Rejected: 3, Time: 225:05
+</font><br><font color="#00ffff">ETH: GPU0 30.511 Mh/s, GPU1 29.424 Mh/s, GPU2 30.478 Mh/s, GPU3 30.473 Mh/s, GPU4 30.428 Mh/s, GPU5 30.478 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4544.792 Mh/s, Total Shares: 29110(4879+4802+4855+4832+4864+4903), Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 762.776 Mh/s, GPU1 735.591 Mh/s, GPU2 761.951 Mh/s, GPU3 761.831 Mh/s, GPU4 760.692 Mh/s, GPU5 761.951 Mh/s
+</font><br><font color="#00ffff">Incorrect ETH shares: GPU0 79, GPU1 70, GPU2 57, GPU3 74, GPU4 72, GPU5 84
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 181.672 Mh/s
+</font><br><font color="#ffffff">Pool switches: ETH - 4, DCR - 1
+</font><br><font color="#ffffff">Current ETH share target: 0x0000000112e0be82 (diff: 4000MH), epoch 167(2.30GB)
+Current DCR share target: 0x000000000831e272 (diff: 134GH), block #209099
+</font><br><font color="#ff00ff">GPU0 t=54C fan=74%, GPU1 t=50C fan=75%, GPU2 t=53C fan=71%, GPU3 t=54C fan=76%, GPU4 t=53C fan=74%, GPU5 t=50C fan=71%
+</font><br><font color="#ffffff">
+</font><br><font color="#ff00ff">GPU0 t=54C fan=74%, GPU1 t=50C fan=75%, GPU2 t=53C fan=71%, GPU3 t=54C fan=76%, GPU4 t=53C fan=73%, GPU5 t=50C fan=71%
+</font><br><font color="#ffffff">ETH: 02/01/18-21:33:58 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 182.364 Mh/s, Total Shares: 35263, Rejected: 3, Time: 225:05
+</font><br><font color="#00ffff">ETH: GPU0 30.422 Mh/s, GPU1 30.389 Mh/s, GPU2 30.366 Mh/s, GPU3 30.430 Mh/s, GPU4 30.389 Mh/s, GPU5 30.367 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4559.097 Mh/s, Total Shares: 29110, Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 760.556 Mh/s, GPU1 759.720 Mh/s, GPU2 759.161 Mh/s, GPU3 760.752 Mh/s, GPU4 759.736 Mh/s, GPU5 759.172 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:34:01 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 179.709 Mh/s, Total Shares: 35263, Rejected: 3, Time: 225:05
+</font><br><font color="#00ffff">ETH: GPU0 30.460 Mh/s, GPU1 30.381 Mh/s, GPU2 27.785 Mh/s, GPU3 30.390 Mh/s, GPU4 30.248 Mh/s, GPU5 30.446 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4492.728 Mh/s, Total Shares: 29110, Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 761.498 Mh/s, GPU1 759.519 Mh/s, GPU2 694.621 Mh/s, GPU3 759.758 Mh/s, GPU4 756.188 Mh/s, GPU5 761.144 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:34:03 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 181.249 Mh/s, Total Shares: 35263, Rejected: 3, Time: 225:05
+</font><br><font color="#00ffff">ETH: GPU0 29.812 Mh/s, GPU1 30.369 Mh/s, GPU2 29.857 Mh/s, GPU3 30.424 Mh/s, GPU4 30.391 Mh/s, GPU5 30.396 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4531.218 Mh/s, Total Shares: 29110, Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 745.311 Mh/s, GPU1 759.215 Mh/s, GPU2 746.430 Mh/s, GPU3 760.605 Mh/s, GPU4 759.769 Mh/s, GPU5 759.888 Mh/s
+</font><br><font color="#00ff00">ETH: 02/01/18-21:34:08 - SHARE FOUND - (GPU 4)
+</font><br><font color="#00ff00">ETH: Share accepted (79 ms)!
+</font><br><font color="#00ff00">ETH: 02/01/18-21:34:13 - SHARE FOUND - (GPU 3)
+</font><br><font color="#00ff00">ETH: Share accepted (78 ms)!
+</font><br><font color="#00ff00">ETH: 02/01/18-21:34:14 - SHARE FOUND - (GPU 2)
+</font><br><font color="#00ff00">ETH: Share accepted (78 ms)!
+</font><br>&nbsp;<font color="#ffffff"> DCR: 02/01/18-21:34:16 - New job from dcr-as.coinmine.pl:2222
+</font><br><font color="#00ff00">ETH: 02/01/18-21:34:22 - SHARE FOUND - (GPU 3)
+</font><br><font color="#00ff00">ETH: Share accepted (78 ms)!
+</font><br>&nbsp;<font color="#00ff00"> DCR: 02/01/18-21:34:25 - SHARE FOUND - (GPU 3)
+</font><br>&nbsp;<font color="#00ff00"> DCR: Share accepted (93 ms)!
+</font><br><font color="#ff00ff">GPU0 t=54C fan=74%, GPU1 t=50C fan=76%, GPU2 t=53C fan=71%, GPU3 t=53C fan=74%, GPU4 t=53C fan=72%, GPU5 t=50C fan=71%
+</font><br>&nbsp;<font color="#00ff00"> DCR: 02/01/18-21:34:48 - SHARE FOUND - (GPU 1)
+</font><br>&nbsp;<font color="#00ff00"> DCR: Share accepted (109 ms)!
+</font><br><font color="#ffffff">ETH: 02/01/18-21:34:48 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 181.048 Mh/s, Total Shares: 35267, Rejected: 3, Time: 225:06
+</font><br><font color="#00ffff">ETH: GPU0 30.342 Mh/s, GPU1 30.359 Mh/s, GPU2 30.348 Mh/s, GPU3 30.447 Mh/s, GPU4 30.387 Mh/s, GPU5 29.166 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4526.191 Mh/s, Total Shares: 29112, Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 758.544 Mh/s, GPU1 758.972 Mh/s, GPU2 758.696 Mh/s, GPU3 761.171 Mh/s, GPU4 759.665 Mh/s, GPU5 729.143 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:34:52 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 182.355 Mh/s, Total Shares: 35267, Rejected: 3, Time: 225:06
+</font><br><font color="#00ffff">ETH: GPU0 30.473 Mh/s, GPU1 30.370 Mh/s, GPU2 30.397 Mh/s, GPU3 30.349 Mh/s, GPU4 30.394 Mh/s, GPU5 30.371 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4558.873 Mh/s, Total Shares: 29112, Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 761.825 Mh/s, GPU1 759.243 Mh/s, GPU2 759.931 Mh/s, GPU3 758.733 Mh/s, GPU4 759.861 Mh/s, GPU5 759.280 Mh/s
+</font><br>&nbsp;<font color="#00ff00"> DCR: 02/01/18-21:35:00 - SHARE FOUND - (GPU 5)
+</font><br>&nbsp;<font color="#00ff00"> DCR: Share accepted (94 ms)!
+</font><br><font color="#ffffff">ETH: 02/01/18-21:35:02 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 182.351 Mh/s, Total Shares: 35267, Rejected: 3, Time: 225:06
+</font><br><font color="#00ffff">ETH: GPU0 30.385 Mh/s, GPU1 30.415 Mh/s, GPU2 30.387 Mh/s, GPU3 30.375 Mh/s, GPU4 30.408 Mh/s, GPU5 30.380 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4558.769 Mh/s, Total Shares: 29113, Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 759.633 Mh/s, GPU1 760.366 Mh/s, GPU2 759.676 Mh/s, GPU3 759.383 Mh/s, GPU4 760.208 Mh/s, GPU5 759.503 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=54C fan=74%, GPU1 t=50C fan=76%, GPU2 t=53C fan=71%, GPU3 t=54C fan=76%, GPU4 t=53C fan=74%, GPU5 t=50C fan=72%
+</font><br><font color="#ffffff">ETH: 02/01/18-21:35:06 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 181.322 Mh/s, Total Shares: 35267, Rejected: 3, Time: 225:06
+</font><br><font color="#00ffff">ETH: GPU0 30.383 Mh/s, GPU1 30.411 Mh/s, GPU2 30.414 Mh/s, GPU3 30.390 Mh/s, GPU4 29.348 Mh/s, GPU5 30.376 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4533.046 Mh/s, Total Shares: 29113, Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 759.568 Mh/s, GPU1 760.273 Mh/s, GPU2 760.344 Mh/s, GPU3 759.747 Mh/s, GPU4 733.709 Mh/s, GPU5 759.405 Mh/s
+</font><br>&nbsp;<font color="#ffffff"> DCR: 02/01/18-21:35:11 - New job from dcr-as.coinmine.pl:2222
+</font><br><font color="#ffffff">ETH: 02/01/18-21:35:14 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 182.149 Mh/s, Total Shares: 35267, Rejected: 3, Time: 225:07
+</font><br><font color="#00ffff">ETH: GPU0 30.239 Mh/s, GPU1 30.382 Mh/s, GPU2 30.462 Mh/s, GPU3 30.333 Mh/s, GPU4 30.352 Mh/s, GPU5 30.380 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4553.722 Mh/s, Total Shares: 29113, Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 755.978 Mh/s, GPU1 759.557 Mh/s, GPU2 761.553 Mh/s, GPU3 758.333 Mh/s, GPU4 758.809 Mh/s, GPU5 759.492 Mh/s
+</font><br><font color="#ffffff">
+</font><br><font color="#00ff00">GPU #0: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #1: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #2: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #3: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #4: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ff00">GPU #5: Ellesmere, 4096 MB available, 32 compute units
+</font><br><font color="#00ffff">ETH - Total Speed: 179.610 Mh/s, Total Shares: 35267(6072+6108+6072+5908+5931+5914), Rejected: 3, Time: 225:07
+</font><br><font color="#00ffff">ETH: GPU0 30.143 Mh/s, GPU1 30.516 Mh/s, GPU2 30.302 Mh/s, GPU3 28.302 Mh/s, GPU4 30.461 Mh/s, GPU5 29.886 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 4490.235 Mh/s, Total Shares: 29113(4879+4803+4855+4833+4864+4904), Rejected: 582
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 753.568 Mh/s, GPU1 762.896 Mh/s, GPU2 757.545 Mh/s, GPU3 707.552 Mh/s, GPU4 761.531 Mh/s, GPU5 747.143 Mh/s
+</font><br><font color="#00ffff">Incorrect ETH shares: GPU0 79, GPU1 70, GPU2 57, GPU3 74, GPU4 72, GPU5 84
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 180.464 Mh/s
+</font><br><font color="#ffffff">Pool switches: ETH - 4, DCR - 1
+</font><br><font color="#ffffff">Current ETH share target: 0x0000000112e0be82 (diff: 4000MH), epoch 167(2.30GB)
+Current DCR share target: 0x000000000831e272 (diff: 134GH), block #209099
+</font><br><font color="#ff00ff">GPU0 t=54C fan=74%, GPU1 t=50C fan=76%, GPU2 t=54C fan=71%, GPU3 t=54C fan=75%, GPU4 t=53C fan=72%, GPU5 t=50C fan=72%
+</font><br><font color="#ffffff">
+</font><br></body></html>

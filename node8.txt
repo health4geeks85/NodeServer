@@ -1,0 +1,114 @@
+<html><body bgcolor="#000000" style="font-family: monospace;">
+{"result": ["9.8 - ETH", "3321", "153242;7593;3", "25672;25655;25280;25657;25480;25495", "0;0;0", "off;off;off;off;off;off", "59;0;61;79;61;79;59;79;61;79;57;0", "asia1.ethermine.org:4444", "1;0;0;0"]}<br><br><font color="#00ffff">ETH: GPU0 25.676 Mh/s, GPU1 25.647 Mh/s, GPU2 25.274 Mh/s, GPU3 25.652 Mh/s, GPU4 25.469 Mh/s, GPU5 25.483 Mh/s
+</font><br><font color="#00ff00">ETH: 02/01/18-21:32:26 - SHARE FOUND - (GPU 3)
+</font><br><font color="#00ff00">ETH: Share accepted (63 ms)!
+</font><br><font color="#00ff00">ETH: 02/01/18-21:32:30 - SHARE FOUND - (GPU 1)
+</font><br><font color="#00ff00">ETH: Share accepted (63 ms)!
+</font><br><font color="#ffffff">ETH: 02/01/18-21:32:30 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 152.316 Mh/s, Total Shares: 7585, Rejected: 3, Time: 55:19
+</font><br><font color="#00ffff">ETH: GPU0 25.602 Mh/s, GPU1 25.102 Mh/s, GPU2 25.221 Mh/s, GPU3 25.575 Mh/s, GPU4 25.399 Mh/s, GPU5 25.416 Mh/s
+</font><br><font color="#00ff00">ETH: 02/01/18-21:32:33 - SHARE FOUND - (GPU 4)
+</font><br><font color="#00ff00">ETH: Share accepted (63 ms)!
+</font><br><font color="#ffffff">ETH: 02/01/18-21:32:44 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 152.848 Mh/s, Total Shares: 7586, Rejected: 3, Time: 55:19
+</font><br><font color="#00ffff">ETH: GPU0 25.617 Mh/s, GPU1 25.569 Mh/s, GPU2 25.245 Mh/s, GPU3 25.590 Mh/s, GPU4 25.414 Mh/s, GPU5 25.413 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:32:55 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.229 Mh/s, Total Shares: 7586, Rejected: 3, Time: 55:20
+</font><br><font color="#00ffff">ETH: GPU0 25.674 Mh/s, GPU1 25.649 Mh/s, GPU2 25.282 Mh/s, GPU3 25.652 Mh/s, GPU4 25.477 Mh/s, GPU5 25.494 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:32:58 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 152.847 Mh/s, Total Shares: 7586, Rejected: 3, Time: 55:20
+</font><br><font color="#00ffff">ETH: GPU0 25.608 Mh/s, GPU1 25.581 Mh/s, GPU2 25.207 Mh/s, GPU3 25.607 Mh/s, GPU4 25.405 Mh/s, GPU5 25.439 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:33:01 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.191 Mh/s, Total Shares: 7586, Rejected: 3, Time: 55:20
+</font><br><font color="#00ffff">ETH: GPU0 25.674 Mh/s, GPU1 25.646 Mh/s, GPU2 25.283 Mh/s, GPU3 25.653 Mh/s, GPU4 25.464 Mh/s, GPU5 25.470 Mh/s
+</font><br><font color="#00ff00">ETH: 02/01/18-21:33:10 - SHARE FOUND - (GPU 2)
+</font><br><font color="#00ff00">ETH: Share accepted (62 ms)!
+</font><br><font color="#00ff00">ETH: 02/01/18-21:33:16 - SHARE FOUND - (GPU 0)
+</font><br><font color="#00ff00">ETH: Share accepted (63 ms)!
+</font><br><font color="#ffffff">ETH: 02/01/18-21:33:20 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.242 Mh/s, Total Shares: 7588, Rejected: 3, Time: 55:20
+</font><br><font color="#00ffff">ETH: GPU0 25.673 Mh/s, GPU1 25.654 Mh/s, GPU2 25.284 Mh/s, GPU3 25.657 Mh/s, GPU4 25.483 Mh/s, GPU5 25.491 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=59C fan=0%, GPU1 t=61C fan=79%, GPU2 t=61C fan=79%, GPU3 t=59C fan=79%, GPU4 t=62C fan=79%, GPU5 t=57C fan=0%
+</font><br><font color="#ffffff">ETH: 02/01/18-21:33:25 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.204 Mh/s, Total Shares: 7588, Rejected: 3, Time: 55:20
+</font><br><font color="#00ffff">ETH: GPU0 25.672 Mh/s, GPU1 25.652 Mh/s, GPU2 25.283 Mh/s, GPU3 25.648 Mh/s, GPU4 25.471 Mh/s, GPU5 25.478 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:33:27 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.258 Mh/s, Total Shares: 7588, Rejected: 3, Time: 55:20
+</font><br><font color="#00ffff">ETH: GPU0 25.678 Mh/s, GPU1 25.663 Mh/s, GPU2 25.283 Mh/s, GPU3 25.662 Mh/s, GPU4 25.481 Mh/s, GPU5 25.490 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:33:33 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.204 Mh/s, Total Shares: 7588, Rejected: 3, Time: 55:20
+</font><br><font color="#00ffff">ETH: GPU0 25.674 Mh/s, GPU1 25.650 Mh/s, GPU2 25.284 Mh/s, GPU3 25.645 Mh/s, GPU4 25.464 Mh/s, GPU5 25.485 Mh/s
+</font><br><font color="#00ff00">ETH: 02/01/18-21:33:38 - SHARE FOUND - (GPU 4)
+</font><br><font color="#00ff00">ETH: 02/01/18-21:33:39 - SHARE FOUND - (GPU 0)
+</font><br><font color="#00ff00">ETH: Share accepted (156 ms)!
+</font><br><font color="#00ff00">ETH: Share accepted (156 ms)!
+</font><br><font color="#ffffff">ETH: 02/01/18-21:33:39 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.206 Mh/s, Total Shares: 7590, Rejected: 3, Time: 55:20
+</font><br><font color="#00ffff">ETH: GPU0 25.674 Mh/s, GPU1 25.652 Mh/s, GPU2 25.274 Mh/s, GPU3 25.655 Mh/s, GPU4 25.466 Mh/s, GPU5 25.486 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:33:46 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.212 Mh/s, Total Shares: 7590, Rejected: 3, Time: 55:20
+</font><br><font color="#00ffff">ETH: GPU0 25.677 Mh/s, GPU1 25.653 Mh/s, GPU2 25.281 Mh/s, GPU3 25.649 Mh/s, GPU4 25.472 Mh/s, GPU5 25.480 Mh/s
+</font><br><font color="#00ff00">ETH: 02/01/18-21:33:50 - SHARE FOUND - (GPU 0)
+</font><br><font color="#00ff00">ETH: Share accepted (62 ms)!
+</font><br><font color="#ffffff">ETH: 02/01/18-21:33:59 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.184 Mh/s, Total Shares: 7591, Rejected: 3, Time: 55:21
+</font><br><font color="#00ffff">ETH: GPU0 25.677 Mh/s, GPU1 25.645 Mh/s, GPU2 25.277 Mh/s, GPU3 25.644 Mh/s, GPU4 25.467 Mh/s, GPU5 25.474 Mh/s
+</font><br><font color="#ffffff">
+</font><br><font color="#00ff00">GPU #0: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #1: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #2: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #3: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #4: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #5: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ffff">ETH - Total Speed: 153.226 Mh/s, Total Shares: 7591(1238+1306+1312+1278+1255+1286), Rejected: 3, Time: 55:21
+</font><br><font color="#00ffff">ETH: GPU0 25.674 Mh/s, GPU1 25.653 Mh/s, GPU2 25.282 Mh/s, GPU3 25.657 Mh/s, GPU4 25.476 Mh/s, GPU5 25.485 Mh/s
+</font><br><font color="#00ffff">Incorrect ETH shares: GPU5 1
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 153.046 Mh/s
+</font><br><font color="#ffffff">Pool switches: ETH - 0, DCR - 0
+</font><br><font color="#ffffff">Current ETH share target: 0x0000000112e0be82 (diff: 4000MH), epoch 167(2.30GB)
+</font><br><font color="#ffffff">ETH: 02/01/18-21:34:05 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.166 Mh/s, Total Shares: 7591, Rejected: 3, Time: 55:21
+</font><br><font color="#00ffff">ETH: GPU0 25.671 Mh/s, GPU1 25.646 Mh/s, GPU2 25.277 Mh/s, GPU3 25.644 Mh/s, GPU4 25.449 Mh/s, GPU5 25.479 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=59C fan=0%, GPU1 t=61C fan=79%, GPU2 t=61C fan=79%, GPU3 t=59C fan=79%, GPU4 t=60C fan=79%, GPU5 t=57C fan=0%
+</font><br><font color="#ffffff">
+</font><br><font color="#00ff00">ETH: 02/01/18-21:34:09 - SHARE FOUND - (GPU 2)
+</font><br><font color="#00ff00">ETH: Share accepted (63 ms)!
+</font><br><font color="#00ff00">ETH: 02/01/18-21:34:11 - SHARE FOUND - (GPU 4)
+</font><br><font color="#00ff00">ETH: Share accepted (63 ms)!
+</font><br><font color="#ffffff">ETH: 02/01/18-21:34:13 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.186 Mh/s, Total Shares: 7593, Rejected: 3, Time: 55:21
+</font><br><font color="#00ffff">ETH: GPU0 25.676 Mh/s, GPU1 25.645 Mh/s, GPU2 25.271 Mh/s, GPU3 25.649 Mh/s, GPU4 25.461 Mh/s, GPU5 25.484 Mh/s
+</font><br><font color="#ffffff">
+</font><br><font color="#00ff00">GPU #0: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #1: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #2: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #3: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #4: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ff00">GPU #5: P106-100, 6144 MB available, 10 compute units, capability: 6.1
+
+</font><br><font color="#00ffff">ETH - Total Speed: 153.234 Mh/s, Total Shares: 7593(1238+1306+1313+1278+1256+1286), Rejected: 3, Time: 55:21
+</font><br><font color="#00ffff">ETH: GPU0 25.674 Mh/s, GPU1 25.658 Mh/s, GPU2 25.286 Mh/s, GPU3 25.658 Mh/s, GPU4 25.478 Mh/s, GPU5 25.479 Mh/s
+</font><br><font color="#00ffff">Incorrect ETH shares: GPU5 1
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 153.076 Mh/s
+</font><br><font color="#ffffff">Pool switches: ETH - 0, DCR - 0
+</font><br><font color="#ffffff">Current ETH share target: 0x0000000112e0be82 (diff: 4000MH), epoch 167(2.30GB)
+</font><br><font color="#ffffff">ETH: 02/01/18-21:34:16 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.220 Mh/s, Total Shares: 7593, Rejected: 3, Time: 55:21
+</font><br><font color="#00ffff">ETH: GPU0 25.678 Mh/s, GPU1 25.658 Mh/s, GPU2 25.281 Mh/s, GPU3 25.643 Mh/s, GPU4 25.478 Mh/s, GPU5 25.482 Mh/s
+</font><br><font color="#ffffff">ETH: 02/01/18-21:34:17 - New job from asia1.ethermine.org:4444
+</font><br><font color="#00ffff">ETH - Total Speed: 153.212 Mh/s, Total Shares: 7593, Rejected: 3, Time: 55:21
+</font><br><font color="#00ffff">ETH: GPU0 25.677 Mh/s, GPU1 25.648 Mh/s, GPU2 25.284 Mh/s, GPU3 25.653 Mh/s, GPU4 25.466 Mh/s, GPU5 25.484 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=59C fan=0%, GPU1 t=61C fan=79%, GPU2 t=61C fan=79%, GPU3 t=59C fan=79%, GPU4 t=61C fan=79%, GPU5 t=57C fan=0%
+</font><br><font color="#ffffff">
+</font><br></body></html>
