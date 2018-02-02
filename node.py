@@ -5,7 +5,7 @@ import threading
 import random
 import sys
 
-FILE = '/Users/macbook/Dropbox/WORK/MinerStartup/NodeServer/node{}.txt'
+FILE = './node{}.txt'
 if len(sys.argv) == 2:
     NODES = int(sys.argv[1])
 else:
