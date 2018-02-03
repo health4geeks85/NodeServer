@@ -12,18 +12,18 @@ else:
     NODES = 4
 
 
-class MyHandler(http.server.BaseHTTPRequestHandler):
+class MyHandler(http.server.SimpleHTTPRequestHandler):
     # 0 failing
     # 1 working
     mode = 1
     nodeName = None
     filePath = None
-
     def do_GET(self):
         if self.mode == 1:
             with open(self.filePath) as f:
                 content = f.read()
-            self.send_response(200)
+            self.send_response_only(200)
+            self.flush_headers()
             self.send_header('Content-Type', 'text/html; charset=UTF-8')
             self.send_header('Connection', 'close')
             self.end_headers()
